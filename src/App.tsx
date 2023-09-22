@@ -405,7 +405,7 @@ function App() {
       <footer
         className="
       w-full p-[20px] flex flex-col bg-[#252F3D] items-center text-white gap-4 
-      md:flex-row justify-between md:fixed md:bottom-0"
+      md:flex-row justify-between"
       >
         <div className="flex gap-2 justify-center items-center pt-[8px] pr-[0px] pb-[8px] pl-[0px]">
           <span className="text-[12px] leading-[16.8px] border-r border-[#CFCFCF] flex-1 pr-4 md:text-[16px]">
